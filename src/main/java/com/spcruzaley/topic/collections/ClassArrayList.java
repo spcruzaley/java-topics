@@ -1,4 +1,4 @@
-package com.java.collections;
+package com.spcruzaley.topic.collections;
 
 public class ClassArrayList {
 

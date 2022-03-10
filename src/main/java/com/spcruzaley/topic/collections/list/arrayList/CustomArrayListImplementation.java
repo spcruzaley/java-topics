@@ -1,4 +1,4 @@
-package com.java.collections.list.arrayList;
+package com.spcruzaley.topic.collections.list.arrayList;
 
 import java.util.Arrays;
 
