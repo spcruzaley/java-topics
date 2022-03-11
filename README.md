@@ -8,7 +8,10 @@ Algunos de los temas expuestos aquí estarán también publicados en [mi blog](h
 
 * API de Colecciones
   * List
-    - [ArrayList](src/main/java/com/spcruzaley/topic/collections/list/arrayList/README.md)
+    - [ArrayList](src/main/java/com/spcruzaley/topic/collections/list/arrayList)
+
+- Concurrencia
+  - [Patrón Singleton Thread-Safe](src/main/java/com/spcruzaley/topic/concurrency/singletonpattern)
 
 ## Temas por versión
 
