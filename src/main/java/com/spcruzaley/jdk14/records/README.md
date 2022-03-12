@@ -11,7 +11,7 @@ Los Records comenzaron a gestarse en la versión 14 de Java, esto quiere decir q
 
 Los Records llegaron para _hacernos la vida más facil_ en la generacion de clases [inmutables](../../topic/immutability) (_clases que no pueden ser extendidas y que, por concepto, no pueden modificarse sus atributos una vez creado el objeto_), y es que para generar una clase inmutable se necesita de mucho código, el cúal nos va a ahorra los **Records**.
 
-[![Video a YouTube](https://i9.ytimg.com/vi/j-bPnCqFh2o/mq1.jpg?sqp=CNTCr5EG&rs=AOn4CLACUAz1gUV9qakxFomACR1ho7Kw5g](https://youtu.be/j-bPnCqFh2o)
+[![SC2 Video](https://i9.ytimg.com/vi/j-bPnCqFh2o/mq1.jpg?sqp=CNTCr5EG&rs=AOn4CLACUAz1gUV9qakxFomACR1ho7Kw5g)](https://youtu.be/j-bPnCqFh2o)
 
 _Referencias:_ 
 - https://javarevisited.blogspot.com/2022/03/how-to-use-record-in-java-example.html?utm_source=dlvr.it&utm_medium=twitter
