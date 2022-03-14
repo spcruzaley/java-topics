@@ -6,7 +6,7 @@
 
 ## Caractéristicas principales
 
-Operación | Comportamiento 
+Operación | Comportamiento
 --- | --- 
 Mantiene el orden de inserción | Si
 Permite elementos duplicados | Si
@@ -18,9 +18,10 @@ Es Thread-Safe | No
 
 Operación | Complejidad
 --- | --- 
-Agregar | O(1)
+Agregar | O(N)
+Agregar al inicio | O(1)
 Eliminar | O(N)
-Obtener | O(1)
+Obtener | O(N)
 Contiene | O(N)
 Obtener siguiente | O(1)
 
@@ -29,9 +30,8 @@ Obtener siguiente | O(1)
 En caso de requerir **concurrencia**, se pueden utilizar lo siguiente:
 
 - **Collections.synchronizedList** la cual retorna un ojeto **List** que es **Thread-Safe**.
-- **CopyAndWriteArrayList** clase que es por default **Thread-Safe**.
 
 ## Implementación personalizada
 
-- [Implementation Personalizada](CustomArrayListImplementation.java)
-- [Test cases](../../../../../../../../test/java/com/spcruzaley/topic/collections/list/arrayList/CustomArrayListImplementationTest.java)
+- [Implementation Personalizada](CustomLinkedListImplementation.java)
+- [Test cases](../../../../../../../../test/java/com/spcruzaley/topic/collections/list/linkedlist/CustomLinkedListImplementationTest.java)

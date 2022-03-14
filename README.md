@@ -6,33 +6,35 @@ Algunos de los temas expuestos aquí estarán también publicados en [mi blog](h
 
 ## Temas por conceptos especificos
 
-* API de Colecciones
-  * List
-    - [ArrayList](src/main/java/com/spcruzaley/topic/collections/list/arrayList)
+- API de Colecciones
+  - List
+    - [Array List](src/main/java/com/spcruzaley/topic/collections/list/arrayList)
+  - Linked Lis
+    - [Linked List](src/main/java/com/spcruzaley/topic/collections/list/linkedlist)
 
 - Concurrencia
   - [Patrón Singleton Thread-Safe](src/main/java/com/spcruzaley/topic/concurrency/singletonpattern)
 
 ## Temas por versión
 
-* JDK 8 (LTS - _Y anteriores_)
+- JDK 8 (LTS - _Y anteriores_)
 
 
-* JDK 9
+- JDK 9
 
 
-* JDK 11 (LTS)
+- JDK 11 (LTS)
 
 
-* JDK 14
-  * [Records (Preview)](src/main/java/com/spcruzaley/jdk14/records/)
+- JDK 14
+  - [Records (Preview)](src/main/java/com/spcruzaley/jdk14/records/)
 
 
-* JDK 15
+- JDK 15
 
 
-* JDK 16
-  * [Records (Feature Released)](src/main/java/com/spcruzaley/jdk14/records/)
+- JDK 16
+  - [Records (Feature Released)](src/main/java/com/spcruzaley/jdk14/records/)
 
 
-* JDK 17 (LTS)
+- JDK 17 (LTS)
