@@ -31,10 +31,13 @@ Algunos de los temas expuestos aquí estarán también publicados en [mi blog](h
 
 
 - JDK 15
+  - [Sealed Classes (First Preview)](src/main/java/com/spcruzaley/jdk17/sealedclasses/) 
 
 
 - JDK 16
   - [Records (Feature Released)](src/main/java/com/spcruzaley/jdk14/records/)
+  - [Sealed Classes (Second Preview)](src/main/java/com/spcruzaley/jdk17/sealedclasses/)
 
 
 - JDK 17 (LTS)
+  - [Sealed Classes (Feature Released)](src/main/java/com/spcruzaley/jdk17/sealedclasses/)
