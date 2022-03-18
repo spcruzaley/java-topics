@@ -11,7 +11,7 @@ Las **Sealed Classes** o **Clases Selladas** en español, es una característica
 
 Las **Sealed Classes** llegaron para poner orden al tema de la herencia, hoy en día es fácil extender cualquier clase, pero eso se acabo, con las **Sealed Classes** vamos a **evitar** que cualquier clase **no autorizada** pueda externderla, solo los elegidos podrán hacerlo.
 
-[![Video](IMAGEN)](URL)
+[![Video](https://i9.ytimg.com/vi/Aon28MYJgo0/mq2.jpg?sqp=CJDA05EG&rs=AOn4CLCUEhhN55my4tRKXhx5Pjim8O3uMQ)](https://youtu.be/Aon28MYJgo0)
 
 _Referencias:_
 - https://docs.oracle.com/en/java/javase/17/language/sealed-classes-and-interfaces.html
